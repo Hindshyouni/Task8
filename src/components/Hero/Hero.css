@@ -14,7 +14,7 @@
   padding: 0 20px;
 }
 .hero-p h2 {
-  color: black;
+  color: #ff8500;
   padding: 5px 0;
 }
 .hero-p p {
@@ -125,7 +125,7 @@
   .img-game img {
     width: 150px;
     position: relative;
-    bottom: 53px;
+    bottom: 53px !important;
     left: 29px;
   }
   .hero-wave-p {
