@@ -104,6 +104,15 @@
     left: 29px;
   }
 }
+@media (min-width: 375px) and (max-width: 667px) {
+  .img-game img {
+    width: 150px;
+    position: relative;
+    bottom: 70px !important;
+    left: 29px;
+  }
+}
+
 @media (min-width: 350px) and (max-width: 555px) {
   .hero-p {
     width: 60.1vw;
@@ -125,7 +134,7 @@
   .img-game img {
     width: 150px;
     position: relative;
-    bottom: 53px !important;
+    bottom: 40px ;
     left: 29px;
   }
 
